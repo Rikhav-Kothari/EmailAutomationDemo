@@ -1,0 +1,34 @@
+Hello All,
+
+This email contains important information regarding your access to the product platform. You have been added as a user of the {companyName} account in the product platform, accessible here:
+
+{customerURL} 
+
+Please add this link to your browser bookmarks.  You will get a new link once you are live and moved to production. 
+
+Login
+
+Your login is your email address and your password is randomly assigned.  So your login information is:
+
+
+User: {clientUserFullName}
+Username: {username}
+Password: {password}
+
+
+
+
+You can reset the password yourself at any time by clicking on your name in the top right, then Profile, click on Preferences, and select the Password tab.  We recommend you do so because an emailed password is not secure.
+
+Module access
+
+You have been provided with the following requested roles that give you access to these modules of the platform:
+
+{Bundle}
+
+{Product1}
+
+{Product2}
+
+
+Regards,
