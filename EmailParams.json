@@ -4,14 +4,8 @@
   "customerDomain":"testcustomer.com",
   "productsPurchased":[ true, true, true ],
   "clientLeadFirstName":"(Lead User First Name)",
-  "senderEmail":"rikhavk@smartcorp.com",
-  "recipientEmail":"test@test.com",
-  
-  "internalUsers":[
-	["Alexios","Kephallonia","AlexiosK@acodyssey.com"],
-    [ "Phobos", "Kephallonia", "PhobosK@acodyssey.com" ]
-  ],
+  "senderEmail":"Your Email",
   "customerUsers": [
-    [ "Customer User Full Name", "rikhavk@smartcorp.com", "User Password" ]
+    [ "Customer User Full Name", "Customer Email", "User Password" ]
   ]
 }

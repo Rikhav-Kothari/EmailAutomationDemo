@@ -8,7 +8,6 @@ import getpass
 import json
 
 from jinja2 import Template
-from tabulate import tabulate
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 
@@ -93,7 +92,7 @@ def configureMessage(senderEmail,customer,user,json_data):
 
 def sendEmail (credentials,targetEmail,message):
 	# Send the message via local SMTP server.
-	mailserver = smtplib.SMTP('smtp.office365.com',587)
+	mailserver = smtplib.SMTP('smtp.gmail.com',587)
 	mailserver.ehlo()
 	mailserver.starttls()
 	mailserver.login(credentials.email, credentials.password)
